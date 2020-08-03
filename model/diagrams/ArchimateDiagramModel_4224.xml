@@ -41,15 +41,6 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_1282.xml#1282"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4268"
-        source="4249"
-        target="4236">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_1444.xml#1444"/>
-    </sourceConnections>
     <bounds
         x="24"
         y="277"
@@ -117,37 +108,6 @@
         height="100"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="4236"
-        targetConnections="4268">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="4262"
-          source="4236"
-          target="4245">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_1430.xml#1430"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="4255"
-          source="4236"
-          target="4235">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_657.xml#657"/>
-      </sourceConnections>
-      <bounds
-          x="20"
-          y="20"
-          width="120"
-          height="60"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_564.xml#564"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="4237"
         targetConnections="4257">
       <sourceConnections
@@ -170,8 +130,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="4235"
-        targetConnections="4255">
+        id="4235">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="4256"
@@ -227,8 +186,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="4245"
-      targetConnections="4262">
+      id="4245">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4276"
