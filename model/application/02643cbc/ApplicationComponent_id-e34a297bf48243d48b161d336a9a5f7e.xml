@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cards Application -new "
-    id="id-e34a297bf48243d48b161d336a9a5f7e"/>
+    name="Cards Application -new 3"
+    id="id-e34a297bf48243d48b161d336a9a5f7e">
+  <properties
+      key="appName"
+      value="Cards Applicaton "/>
+</archimate:ApplicationComponent>
