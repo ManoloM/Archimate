@@ -329,16 +329,4 @@
           href="Node_998.xml#998"/>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="4e8c14eb-90a8-4263-a7b2-a275efb2908d">
-    <bounds
-        x="626"
-        y="406"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-e34a297bf48243d48b161d336a9a5f7e.xml#id-e34a297bf48243d48b161d336a9a5f7e"/>
-  </children>
 </archimate:ArchimateDiagramModel>
